@@ -2,8 +2,6 @@ You need to install memcache pecl extension:
 
 # pecl install memcache
 
-(tested with version 3.0.5)
-
 Add the following lines to your config.php file:
 
 	// CACHE
